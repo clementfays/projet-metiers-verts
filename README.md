@@ -24,7 +24,7 @@ Table de correspondance FAP/ROME — DARES https://dares.travail-emploi.gouv.fr/
 
 ## Structure du projet
 ```
-├── Bases de Python.ipynb   # Notebook principal
+├── Emplois verts 2023.ipynb   # Notebook principal
 └── Base_open_data_23.xlsx    # Données BMO 2023
 ```
 
@@ -32,6 +32,7 @@ Table de correspondance FAP/ROME — DARES https://dares.travail-emploi.gouv.fr/
 - `pandas` — manipulation des données
 - `matplotlib` — visualisations
 - `seaborn` — visualisations
+- `geopandas` — visualisations cartographiques
 
 ## Auteur
 Clément Fays  
